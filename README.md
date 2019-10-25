@@ -1,5 +1,6 @@
-# Poryecto POO
+# Proyecto POO
 
-##Integrantes
+Integrantes:
 - Nincol Quiroz
-- 
+- Jonny Mercedes
+- Jorge Collazos
