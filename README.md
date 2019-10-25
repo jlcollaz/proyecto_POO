@@ -1,2 +1,5 @@
-# proyecto_POO
-Proyecto de POO
+# Poryecto POO
+
+##Integrantes
+- Nincol Quiroz
+- 
