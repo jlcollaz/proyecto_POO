@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/PruebaGit.cpp.o  -o untitled 
