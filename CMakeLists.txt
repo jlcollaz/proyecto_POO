@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled PruebaGit.cpp)
+add_executable(untitled funciones.cpp, funciones.h, main.cpp )
